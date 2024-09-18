@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66e5ebed40893             |
+    |             66eae86384890             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Gfan\CPT; use Pmpr\Common\Foundation\CPT; abstract class Common extends CPT { }
